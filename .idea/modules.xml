@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeTemplate.iml" filepath="$PROJECT_DIR$/.idea/CodeTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_anno_tx_withoutxml/spring_anno_tx_withoutxml.iml" filepath="$PROJECT_DIR$/spring_anno_tx_withoutxml/spring_anno_tx_withoutxml.iml" />
+    </modules>
+  </component>
+</project>
