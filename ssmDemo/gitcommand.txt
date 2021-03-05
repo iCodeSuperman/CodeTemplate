@@ -1,0 +1,8 @@
+git add .
+
+git commit -m"message"
+
+第一次推送
+git push -u origin master
+
+git push origin master
